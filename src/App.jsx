@@ -153,7 +153,7 @@ export default function App() {
         <a href="#" className="ocs-cta">JOIN THE SYNDICATE</a>
         <div className="ocs-links">
           <a href="#" className="ocs-link">Twitter / X</a>
-          <a href="#" className="ocs-link">OpenSea</a>
+          <a href="https://opensea.io/collection/onchain-crime-syndicate/overview" className="ocs-link">OpenSea</a>
           <a href="#" className="ocs-link">Manifesto</a>
         </div>
         <p className="ocs-copy">© 2024 ONCHAIN CRIMINAL SYNDICATE · ALL CRIMES RECORDED · ALL CRIMINALS REMEMBERED</p>
