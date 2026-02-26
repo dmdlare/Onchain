@@ -27,7 +27,7 @@ const CARD_DATA = [
   {
     id: "#0003",
     label: "THE FRAUDSTER",
-    crime: "15 YEARS NOT ENOUGH · THEIF",
+    crime: "15 YEARS NOT ENOUGH · THIEF",
     color: "#0f1a0a",
     accent: "#1a4a1a",
     icon: "◉",
