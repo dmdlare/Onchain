@@ -17,7 +17,7 @@ const CARD_DATA = [
   },
   {
     id: "#0002",
-    label: "THE TO FACED EXTRACTOR",
+    label: "THE TWO FACED EXTRACTOR",
     crime: "TAKES WITH A SMILE · SERIAL OFFENDER",
     color: "#0a0f1a",
     accent: "#1a3a6b",
