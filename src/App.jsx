@@ -150,7 +150,7 @@ export default function App() {
       <footer className="ocs-footer">
         <div className="ocs-footer-logo">OnChain Criminal Syndicate</div>
         <p className="ocs-footer-tagline">A 10K NFT Collection · Immortalizing Crypto's Worst</p>
-        <a href="#" className="ocs-cta">JOIN THE SYNDICATE</a>
+        <a href="https://opensea.io/collection/onchain-crime-syndicate/overview" className="ocs-cta">JOIN THE SYNDICATE</a>
         <div className="ocs-links">
           <a href="#" className="ocs-link">Twitter / X</a>
           <a href="https://opensea.io/collection/onchain-crime-syndicate/overview" className="ocs-link">OpenSea</a>
