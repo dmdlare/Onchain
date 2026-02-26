@@ -102,8 +102,7 @@ export default function App() {
        <section className="ocs-reveal-notice">
         <h2 className="ocs-reveal-title">COLLECTION REVEAL</h2>
           <p className="ocs-reveal-text">
-           Collection Reveal will be shortly after ZachXBT publishes his January 26th
-           Twitter exposé of insider trading for a particular crypto company.
+           Collection Reveal will be shortly after Mintout.
           </p>
 </section>
 
