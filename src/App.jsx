@@ -8,8 +8,8 @@ import criminal3 from "./assets/Criminal3.jpg";
 const CARD_DATA = [
   {
     id: "#0001",
-    label: "THE RUGGER",
-    crime: "EXIT SCAM · $420M STOLEN",
+    label: " THE BABY FACED CROOK",
+    crime: "EXIT SCAM · WILL SPEND LIFE IN JAIL",
     color: "#1a0a0a",
     accent: "#8b0000",
     icon: "◈",
@@ -17,8 +17,8 @@ const CARD_DATA = [
   },
   {
     id: "#0002",
-    label: "THE SNAKE",
-    crime: "PUMP & DUMP · SERIAL OFFENDER",
+    label: "THE TO FACED EXTRACTOR",
+    crime: "TAKES WITH A SMILE · SERIAL OFFENDER",
     color: "#0a0f1a",
     accent: "#1a3a6b",
     icon: "◆",
@@ -26,8 +26,8 @@ const CARD_DATA = [
   },
   {
     id: "#0003",
-    label: "THE GRIFTER",
-    crime: "CELEBRITY SHILL · PAID PROMO",
+    label: "THE FRAUDSTER",
+    crime: "15 YEARS NOT ENOUGH · THEIF",
     color: "#0f1a0a",
     accent: "#1a4a1a",
     icon: "◉",
@@ -98,6 +98,15 @@ export default function App() {
         </p>
       </section>
 
+          {/* COLLECTION REVEAL NOTICE */}
+       <section className="ocs-reveal-notice">
+        <h2 className="ocs-reveal-title">COLLECTION REVEAL</h2>
+          <p className="ocs-reveal-text">
+           Collection Reveal will be shortly after ZachXBT publishes his January 26th
+           Twitter exposé of insider trading for a particular crypto company.
+          </p>
+</section>
+
       {/* CARDS */}
       <section className="ocs-cards-section">
         <p className="ocs-cards-label">[ MOST WANTED ]</p>
@@ -144,7 +153,7 @@ export default function App() {
         <p className="ocs-footer-tagline">A 10K NFT Collection · Immortalizing Crypto's Worst</p>
         <a href="#" className="ocs-cta">JOIN THE SYNDICATE</a>
         <div className="ocs-links">
-          <a href="#" className="ocs-link">Twitter / CT</a>
+          <a href="#" className="ocs-link">Twitter / X</a>
           <a href="#" className="ocs-link">OpenSea</a>
           <a href="#" className="ocs-link">Manifesto</a>
         </div>
