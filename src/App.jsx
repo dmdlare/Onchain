@@ -65,7 +65,7 @@ export default function App() {
         <div className="ocs-hero-lines" />
         <div className="ocs-stamp">
           <div className="ocs-stamp-inner">
-            <span className="ocs-stamp-num">10K</span>
+            <span className="ocs-stamp-num">6969 </span>
             <span className="ocs-stamp-txt">NFT<br />COLLECTION</span>
           </div>
         </div>
